@@ -5,6 +5,8 @@ public class JavaExam {
 		
 		System.out.println("java test2");
 		
+		System.out.println("java test3");
+		
 	}
 
 }
