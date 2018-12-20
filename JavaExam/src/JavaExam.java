@@ -7,6 +7,8 @@ public class JavaExam {
 		
 		System.out.println("java test3");
 		
+		System.out.println("java test4");
+		
 	}
 
 }
