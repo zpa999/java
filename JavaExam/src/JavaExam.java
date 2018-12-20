@@ -3,6 +3,8 @@ public class JavaExam {
 		
 		System.out.println("java test");
 		
+		System.out.println("java test2");
+		
 	}
 
 }
